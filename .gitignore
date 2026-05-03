@@ -1,0 +1,12 @@
+.DS_Store
+*.tmp
+*.log
+*.bak
+*.mp3
+*.wav
+*.m4a
+
+# Local build and generation scratch directories
+.hatch-pet-runs/
+generated_images/
+node_modules/
