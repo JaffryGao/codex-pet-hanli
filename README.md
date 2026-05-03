@@ -4,17 +4,19 @@
 
 > 非官方同人项目，仅用于个人学习和桌面美化展示。
 
-![Cover](media/cover.jpg)
+<p align="center">
+  <img src="media/cover.jpg" alt="Codex Pet Han Li cover" width="50%">
+</p>
 
 ## Preview
 
-竖屏演示视频：
+点击下面的预览卡片查看完整竖屏演示视频：
 
-<video src="media/demo-xhs-vertical.mp4" controls width="360"></video>
-
-如果 GitHub 页面没有直接渲染视频，可以打开：
-
-[media/demo-xhs-vertical.mp4](media/demo-xhs-vertical.mp4)
+<p align="center">
+  <a href="media/demo-xhs-vertical.mp4">
+    <img src="media/demo-preview.gif" alt="Han Li pet vertical demo preview" width="50%">
+  </a>
+</p>
 
 ## Install
 
@@ -44,6 +46,7 @@ pets/hanli/pet.json
 pets/hanli/spritesheet.webp
 dist/hanli-codex-pet.zip
 media/cover.jpg
+media/demo-preview.gif
 media/demo-xhs-vertical.mp4
 ```
 
